@@ -1,5 +1,6 @@
 # Skin Cancer Classification
-> Outline a brief description of your project.
+> This project classifies the types of Skin cancer from images
+
 
 
 ## Table of Contents
